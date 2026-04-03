@@ -1,0 +1,59 @@
+{
+  "title": "推理引擎：一场AI世界的悬疑调查",
+  "original": "Inference Engineering",
+  "author": "Philip Kiely",
+  "style": "悬疑侦探",
+  "language": "zh-CN",
+  "adapted_by": "Claude",
+  "chapters": [
+    {
+      "file": "chapter-00.md",
+      "title": "序章：入局",
+      "subtitle": "一封来自未知发件人的邮件，一个关于"推理"的谜题",
+      "key_concepts": ["推理（Inference）", "三层架构", "开源 vs 闭源"]
+    },
+    {
+      "file": "chapter-01.md",
+      "title": "第一章：规则",
+      "subtitle": "调查的第一课：了解你的目标",
+      "key_concepts": ["约束优化", "共享 vs 专用部署", "延迟百分位"]
+    },
+    {
+      "file": "chapter-02.md",
+      "title": "第二章：解剖",
+      "subtitle": "打开AI的黑箱",
+      "key_concepts": ["Transformer架构", "LLM推理两阶段", "注意力与KV缓存"]
+    },
+    {
+      "file": "chapter-03.md",
+      "title": "第三章：武器库",
+      "subtitle": "GPU——推理工程师的武器装备",
+      "key_concepts": ["GPU双瓶颈", "FP8", "多GPU互联"]
+    },
+    {
+      "file": "chapter-04.md",
+      "title": "第四章：兵法",
+      "subtitle": "软件栈中的层层机关",
+      "key_concepts": ["软件栈层次", "内核融合", "推理引擎选择"]
+    },
+    {
+      "file": "chapter-05.md",
+      "title": "第五章：秘技",
+      "subtitle": "让模型飞起来的黑魔法",
+      "key_concepts": ["量化", "推测解码", "分离（Disaggregation）"]
+    },
+    {
+      "file": "chapter-06.md",
+      "title": "第六章：变形",
+      "subtitle": "当AI学会看、听、说",
+      "key_concepts": ["两种范式", "VLM长上下文", "图像/视频计算瓶颈"]
+    },
+    {
+      "file": "chapter-07.md",
+      "title": "第七章：战场",
+      "subtitle": "生产环境的终极考验",
+      "key_concepts": ["容器化", "自动扩缩容", "可靠性"]
+    }
+  ],
+  "index_file": "index.md"
+}
