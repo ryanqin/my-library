@@ -1,0 +1,19 @@
+{
+  "id": "gemma-shop",
+  "title": "译铺夜话 · 一座替你慢慢长记忆的小楼",
+  "author": "青桓朗",
+  "cover": "🏮",
+  "description": "阿衍刚从云阁出来,接到一封 Kaggle 的邀请——三十二天造一个 agent,主题是 health/education/climate,场景必须离线。他还在犹豫的时候,家里一位老亲戚发来消息:沈姨在横滨中华街开了三十年的译铺,最近把店面交给了一个 Gemma 4 跑的 agent,自己上楼专心做文学翻译。她说:你来吧,陪我关一个月店,每晚带你看一层。从招牌写着两个字的玻璃门,到地下室一柜柜不会再被打开的抽屉,再到二楼里那栋『楼中楼』,再到屋顶上接着的三根天线——阿衍这才看见,什么叫『agent 知道何时不说话』。",
+  "chapters": [
+    { "id": "ch00-letter",      "title": "序章 · 一封不像比赛通知的邮件",       "file": "ch00-letter.md" },
+    { "id": "ch01-storefront",  "title": "第一夜 · 招牌上只写两个字",          "file": "ch01-storefront.md" },
+    { "id": "ch02-cellar",      "title": "第二夜 · 地下室的抽屉柜",            "file": "ch02-cellar.md" },
+    { "id": "ch03-engine",      "title": "第三夜 · 一楼的发动机和铜尺",        "file": "ch03-engine.md" },
+    { "id": "ch04-six-floors",  "title": "第四夜 · 二楼里的六层楼中楼",        "file": "ch04-six-floors.md" },
+    { "id": "ch05-shaft",       "title": "第五夜 · 楼梯井里的暗语",            "file": "ch05-shaft.md" },
+    { "id": "ch06-bridge",      "title": "第六夜 · 三楼的桥与四楼的彩排厅",    "file": "ch06-bridge.md" },
+    { "id": "ch07-rooftop",     "title": "第七夜 · 屋顶上接的三根天线",        "file": "ch07-rooftop.md" },
+    { "id": "ch08-watcher",     "title": "第八夜 · 楼里只有一个人不睡觉",      "file": "ch08-watcher.md" },
+    { "id": "ch09-dawn",        "title": "尾声 · 第三十二个清晨",              "file": "ch09-dawn.md" }
+  ]
+}

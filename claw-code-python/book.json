@@ -1,0 +1,15 @@
+{
+  "id": "claw-code-python",
+  "title": "翻译者的深夜笔记",
+  "author": "青桓朗",
+  "cover": "🦞",
+  "description": "一个 Python 工程师在一间黄灯的书房里，把 Claude Code 的 TypeScript 原版逐字翻译成 Python。每一夜对着屏幕上的 runtime.py、tools.py、execution_registry.py，他都在和原作者隔空对话——这不是简单的移植，是对『一个 agent harness 到底在想什么』的考古。",
+  "chapters": [
+    { "id": "ch00-preface", "title": "序章 · 翻译者的义务", "file": "ch00-preface.md" },
+    { "id": "ch01-entry", "title": "第一夜 · 大门与分派器", "file": "ch01-entry.md" },
+    { "id": "ch02-runtime", "title": "第二夜 · Token 路由的迷宫", "file": "ch02-runtime.md" },
+    { "id": "ch03-tools", "title": "第三夜 · 工具册与多层过滤网", "file": "ch03-tools.md" },
+    { "id": "ch04-permissions", "title": "第四夜 · 守门人的黑名单", "file": "ch04-permissions.md" },
+    { "id": "ch05-parity", "title": "第五夜 · 对等审计——未完成的地图", "file": "ch05-parity.md" }
+  ]
+}

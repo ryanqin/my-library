@@ -1,0 +1,16 @@
+{
+  "id": "claude-architect",
+  "title": "五国游记 · 一个架构师的漫游",
+  "author": "青桓朗",
+  "cover": "🗺️",
+  "description": "Claude Certified Architect Foundations 五个 domain，被他改写成五个国度。他背着考卷出发，穿越编排国的王宫、工具国的集市、洞窟国的三层阶梯、结构国的匠人街，最后在镜厅国迷路又归来。每一站，一个核心 anti-pattern 显形，一个设计决策被他写进旅行笔记。",
+  "chapters": [
+    { "id": "ch00-map", "title": "序章 · 一张地图，五个国", "file": "ch00-map.md" },
+    { "id": "ch01-orchestration", "title": "编排国 · stop_reason 的王宫", "file": "ch01-orchestration.md" },
+    { "id": "ch02-tools", "title": "工具国 · 描述的魔法", "file": "ch02-tools.md" },
+    { "id": "ch03-cave", "title": "洞窟国 · CLAUDE.md 的三层阶梯", "file": "ch03-cave.md" },
+    { "id": "ch04-structured", "title": "结构国 · Few-shot 的匠人街", "file": "ch04-structured.md" },
+    { "id": "ch05-mirror", "title": "镜厅国 · 迷途与归途", "file": "ch05-mirror.md" },
+    { "id": "ch06-exam", "title": "终章 · 考场上的那六道场景题", "file": "ch06-exam.md" }
+  ]
+}

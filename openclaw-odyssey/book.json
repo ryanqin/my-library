@@ -1,0 +1,16 @@
+{
+  "id": "openclaw-odyssey",
+  "title": "指挥家的一夜 · OpenClaw 奥德赛",
+  "author": "青桓朗",
+  "cover": "🦞",
+  "description": "凌晨三点，他被 PagerDuty 叫醒。一条 Telegram 消息从十万里之外送进来，要求一个 agent 立刻回复。他打开 OpenClaw 的源码——从 1111 行的大脑，到根本不在家的 loop，再到一份 manifest 就能驱动全局的神秘契约——追着一条消息，走完整条闭环。这是一个从『能跑』到『在生产环境里稳住』的工程史诗。",
+  "chapters": [
+    { "id": "ch00-page", "title": "序章 · 凌晨三点的告警", "file": "ch00-page.md" },
+    { "id": "ch01-brain", "title": "第一幕 · 1111 行的大脑", "file": "ch01-brain.md" },
+    { "id": "ch02-loop-not-here", "title": "第二幕 · 原来 loop 不在我家", "file": "ch02-loop-not-here.md" },
+    { "id": "ch03-manifest", "title": "第三幕 · Manifest 的沉默", "file": "ch03-manifest.md" },
+    { "id": "ch04-two-faces", "title": "第四幕 · 可靠与可观测的两张脸", "file": "ch04-two-faces.md" },
+    { "id": "ch05-two-doors", "title": "第五幕 · 两扇门", "file": "ch05-two-doors.md" },
+    { "id": "ch06-dawn", "title": "尾声 · 清晨六点的反思", "file": "ch06-dawn.md" }
+  ]
+}

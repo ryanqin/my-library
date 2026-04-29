@@ -1,0 +1,18 @@
+{
+  "id": "cloud-pavilion",
+  "title": "云阁夜游 · 架构师的八层访问",
+  "author": "青桓朗",
+  "cover": "🏯",
+  "description": "阿衍刚从后端转做 Solution Architect,第一周就被派去给新客户讲一遍「我们整个云架构」。他以为自己准备好了——直到老周在周三深夜把他领进那栋谁也说不清是『数据中心』还是『图书馆』的建筑。从地基开始,一层层往上,他看见了计算、存储、网络、数据、安全、观测、成本——然后在顶楼,他推开那扇新装的门,看见一个房间里挂满了 GPU 的心跳。这是一个从『背过架构图』到『真的能画出来』的夜晚。",
+  "chapters": [
+    { "id": "ch00-elevator", "title": "序章 · 电梯只能按到八层", "file": "ch00-elevator.md" },
+    { "id": "ch01-foundation", "title": "第一层 · 三座城与闪电", "file": "ch01-foundation.md" },
+    { "id": "ch02-three-sets", "title": "第二层 · 铁匠铺、仓库、走廊", "file": "ch02-three-sets.md" },
+    { "id": "ch03-kitchen", "title": "第三层 · 厨房与冰库", "file": "ch03-kitchen.md" },
+    { "id": "ch04-ledger", "title": "第四层 · 门禁、摄像头与账本", "file": "ch04-ledger.md" },
+    { "id": "ch05-new-door", "title": "第五层 · 八楼多了一扇门", "file": "ch05-new-door.md" },
+    { "id": "ch06-gpu-heart", "title": "第六层 · 显卡的心跳", "file": "ch06-gpu-heart.md" },
+    { "id": "ch07-corridor", "title": "第七层 · 图书馆走廊与会议室", "file": "ch07-corridor.md" },
+    { "id": "ch08-dawn", "title": "尾声 · 图纸上的下一笔", "file": "ch08-dawn.md" }
+  ]
+}
